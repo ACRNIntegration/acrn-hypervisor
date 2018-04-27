@@ -27,8 +27,7 @@
  * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
-//3 pull request
-
+//4 pull request
 #include <hypervisor.h>
 #include <hv_lib.h>
 #include <acrn_common.h>
